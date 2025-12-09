@@ -36,7 +36,7 @@
   <!-- GitHub Stats -->
   <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px; width: 80%;">📈 GitHub Stats</h2>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kauanmity&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=kauanmity&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 
   <br><br>
 
