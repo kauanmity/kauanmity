@@ -6,9 +6,9 @@
   <p><strong><a href="https://kauanmity.github.io/portfolio/">Ver meu portfólio ↗</a></strong></p>
 
   <p>
-    Desenvolvedor full stack com experiência em JavaScript, Node.js, React, Python, PHP e bancos de dados como
-    <strong>MongoDB</strong> e <strong>PostgreSQL</strong>.  
-    Apaixonado por construir aplicações rápidas, escaláveis e bem estruturadas.
+    Sou estudante de Engenharia de Software e desenvolvedor full stack. Crio aplicações web, APIs e integrações
+    com JavaScript, Node.js, React, Python e PHP e trabalho com <strong>MongoDB</strong> e <strong>PostgreSQL</strong>.
+    Valorizo código limpo e aplicações rápidas, escaláveis e bem estruturadas.
   </p>
 
   <br>
@@ -26,11 +26,22 @@
 
   <br><br>
 
-  <!-- About -->
-  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px; width: 80%;">📌 Sobre mim</h2>
-  <p style="max-width: 700px;">
-    Estudante de Engenharia de Software e desenvolvedor full stack. Tenho experiência em criar APIs,
-    sistemas web completos, integrações e aplicações escaláveis, sempre com foco em código limpo e boas práticas.
+  <!-- Projetos -->
+  <h2 style="border-bottom: 2px solid #444; padding-bottom: 5px; width: 80%;">Projetos em destaque</h2>
+
+  <p>
+    <strong><a href="https://www.arenacup.com.br/">ArenaCup</a> e <a href="https://github.com/kauanmity/ArenaOS">ArenaOS</a></strong><br>
+    Plataforma competitiva de HaxBall com rankings, torneios e replays, acompanhada por um cliente Windows com acesso às salas e métricas de desempenho.
+  </p>
+
+  <p>
+    <strong>Itreon Sports</strong><br>
+    Plataforma para jogadores, times e arenas, com reservas de quadra, organização de partidas e campeonatos.
+  </p>
+
+  <p>
+    <strong>Mity BOOST</strong><br>
+    Aplicativo Windows para monitorar recursos, aplicar ajustes reversíveis e gerenciar perfis de configuração para CS2.
   </p>
 
   <br>
