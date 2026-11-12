@@ -3,6 +3,8 @@
   <h1>👨‍💻 Kauan de Carvalho</h1>
   <h3>Software Engineering Student · Full Stack Developer</h3>
 
+  <p><strong><a href="https://kauanmity.github.io/portfolio/">Ver meu portfólio ↗</a></strong></p>
+
   <p>
     Desenvolvedor full stack com experiência em JavaScript, Node.js, React, Python, PHP e bancos de dados como
     <strong>MongoDB</strong> e <strong>PostgreSQL</strong>.  
